@@ -1,6 +1,5 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   /* config options here */
   // Explicitly use Pages Router
   reactStrictMode: true,
@@ -9,4 +8,4 @@ const nextConfig: NextConfig = {
   pageExtensions: ['tsx', 'ts', 'jsx', 'js']
 };
 
-export default nextConfig;
+module.exports = nextConfig;

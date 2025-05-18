@@ -23,7 +23,7 @@ export const SAMPLE_LISTINGS = [
     location: 'New York, NY',
     price: 120,
     rating: 4.8,
-    image: '/assets/sample-listing-1.jpg'
+    image: '/assets/64f7c1f4b80255b1d9de659574de3ad943cdc204.png'
   },
   {
     id: 2,
@@ -31,6 +31,6 @@ export const SAMPLE_LISTINGS = [
     location: 'San Francisco, CA',
     price: 200,
     rating: 4.9,
-    image: '/assets/sample-listing-2.jpg'
+    image: '/assets/c811f30edfff8de9c9b079139dd9782018c7e7c0.jpg'
   }
 ];
